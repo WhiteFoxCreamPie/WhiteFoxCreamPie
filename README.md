@@ -1,5 +1,5 @@
 # About Me
-- A developer often thinks my fantasy characters and learns about the knowledge of good people
+- A developer often thinks a fantasy characters and learns about the knowledge of good people
 
 - Knowledge, Acquirements & Experience
 
