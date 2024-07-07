@@ -1,4 +1,4 @@
-# Taste stats
+# Tasty stats
 
 ![CreamPie](https://github-readme-stats.vercel.app/api?username=WhiteFoxCreamPie&show_icons=true&theme=dracula&hide=["issues"])
 
