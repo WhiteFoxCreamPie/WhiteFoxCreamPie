@@ -1,8 +1,11 @@
 # Tasty stats
 
-![CreamPie](https://github-readme-stats.vercel.app/api?username=WhiteFoxCreamPie&show_icons=true&theme=dracula&hide=["issues"])
+<div align="center">
+  
+  ![CreamPie](https://github-readme-stats.vercel.app/api?username=WhiteFoxCreamPie&show_icons=true&theme=dracula&hide=["issues"])
 
-![CreamPie](https://github-readme-stats.vercel.app/api/top-langs?username=WhiteFoxCreamPie&show_icons=true&theme=dracula&layout=compact)
+  ![CreamPie](https://github-readme-stats.vercel.app/api/top-langs?username=WhiteFoxCreamPie&show_icons=true&theme=dracula&layout=compact)
+</div>
 
 # About Me
 - A developer often thinks a fantasy characters and learns about the knowledge of good people
