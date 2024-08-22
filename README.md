@@ -8,9 +8,10 @@
 </div>
 
 # About Me
-- A developer often thinks a fantasy characters and learns about the knowledge of good people
+Hi there,
+- My name is **Quan Thai Nguyen Anh** and I'm form **Vietnam**
+- I'm the **Student in Information Technology** (IT)
+- My username just inspiration form the imagination not my real name but my username can only contain my emotions and encouragement
 
-- Knowledge, Acquirements & Experience
-
-# Ayooo (Just reminder from my fantasy character)
-<h4>Don't code at midnight or girl fury white fox will hug you to prevent work at midnight</h4>
+## The remind form my fantasy character
+Don't code at midnight otherwise the white fox will pick you up and sleep with them
