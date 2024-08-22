@@ -11,7 +11,7 @@
 Hi there,
 - My name is **Quan Thai Nguyen Anh** and I'm form **Vietnam**
 - I'm the **Student in Information Technology** (IT)
-- My username just inspiration form the my imagination not my real username but this username can only contain my emotions and encouragement
+- My username just inspiration form my imagination not my real username but this username can only contain my emotions and encouragement
 
 ## The remind form my fantasy character
 Don't code at midnight otherwise the girl white fox will pick you up and sleep with them
